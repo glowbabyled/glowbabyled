@@ -1,4 +1,4 @@
-# glow-baby-led-app
+# glowbaby-led-app
 Glowbaby App 
 
 # technical support
